@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thekostins" target="blank"><img src="https://img.shields.io/twitter/follow/thekostins?logo=twitter&style=for-the-badge" alt="thekostins" /></a> </p>
 
-- 🔭 I’m currently working on ["My top 100 movies" db project](https://github.com/TheKostins/MyTop100Movies)
+- 🔭 I’m currently working on [DiscordRpgBot](https://github.com/TheKostins/DiscordRpgBot)
 
 - 🌱 I’m currently learning **Rust**
 
