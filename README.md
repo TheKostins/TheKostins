@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DiscordRpgBot](https://github.com/TheKostins/DiscordRpgBot)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Haskell**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheKostins](https://github.com/TheKostins)
 
